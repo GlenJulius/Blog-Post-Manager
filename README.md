@@ -18,4 +18,7 @@ A simple web application that allows users to create, view, update, and manage b
 
 ## Project Structure
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 00e52ced1ef98b0c5ec1426bf5a5a61c25795c37
