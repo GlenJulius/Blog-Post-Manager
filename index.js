@@ -94,4 +94,4 @@ function main() {
   addNewPostListener();
 }
 
-document.addEventListener("DOMContentLoaded"), main;
+document.addEventListener("DOMContentLoaded"), main; 
